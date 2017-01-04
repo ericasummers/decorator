@@ -1,8 +1,25 @@
 .column {
   float: left;
   width: 350px;
+  padding: 10px;
+  margin: 30px;
 }
 
 img {
   width: 200px;
+}
+
+#column1 {
+  border: 1px solid red;
+  background-color: pink;
+}
+
+#column2 {
+  border: 2px dashed yellow;
+  background-color: orange;
+}
+
+#column3 {
+  border: 3px dotted green;
+  background-color: lightgreen;
 }
